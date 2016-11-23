@@ -8,8 +8,7 @@
   "description": "Directive to show/hide password for Ionic apps.",
   "license": "MIT",
   "main": [
-    "./dist/ion-toggle-password.js",
-    "./dist/ion-toggle-password.min.js"
+    "./dist/ion-toggle-password.js"
   ],
   "keywords": [
     "AngularJS",
